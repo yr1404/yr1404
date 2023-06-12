@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%F0%9F%91%8B+!+I+am+Yash)](https://git.io/typing-svg)
+
 # 💫 About Me:
-🔭 I'm currently learning about React JS<br>💬 Ask me about Web Development, Robotics, IoT and Python<br>🤝 I'm looking to collaborate on projects within these domains.<br>⚡ I enjoy discussing and sharing movie recommendations with friends, exchanging thoughts and opinions on our favorite films. 🗣️🎬<br>📫 How to reach me: yash06765@gmail.com
+🔭 I'm currently learning about React JS<br>💬 Ask me about Web Development, Robotics, IoT and Python<br>🤝 I'm looking to collaborate on projects within these domains.<br>⚡ Fun fact: I enjoy discussing and sharing movie recommendations with friends, exchanging thoughts and opinions on our favorite films. 🗣️🎬<br>📫 How to reach me: yash06765@gmail.com
 
 
 ## 🌐 Socials:
