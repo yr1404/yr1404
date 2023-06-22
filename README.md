@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=185788&width=435&lines=Hello%F0%9F%91%8B!+I+am+Yash+%F0%9F%A4%A0)](https://git.io/typing-svg)  
 # About Me:
-🔭 I'm currently learning about React JS<br>🤝 I'm looking to collaborate on projects in the domains like Web and App Development, Python Development, Robotics and IoT.<br>✍️I sometimes write blogs at: https://hashnode.com/@yr1404<br>✉️ My email: yash06765@gmail.com<br>⚡ Fun fact: I enjoy discussing and sharing movie recommendations with friends, exchanging thoughts and opinions on our favorite films. 🗣️🎬
+🔭 I'm currently learning about React JS<br>🤝 I'm looking to collaborate on projects in the domains like Web and App Development, Python Development, Robotics and IoT.<br>✍️ I sometimes write blogs at: https://hashnode.com/@yr1404<br>✉️ My email: yash06765@gmail.com<br>⚡ Fun fact: I enjoy discussing and sharing movie recommendations with friends, exchanging thoughts and opinions on our favorite films. 🗣️🎬
 
 
 ## 🌐 Socials:
