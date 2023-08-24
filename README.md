@@ -1,7 +1,15 @@
-[![](https://visitcount.itsvg.in/api?id=yr1404&icon=0&color=0)](https://visitcount.itsvg.in)  
-<br> 
+<div>
+  
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yr1404&style=flat" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=185788&width=435&lines=Hello%F0%9F%91%8B!+I+am+Yash+%F0%9F%A4%A0)](https://git.io/typing-svg)  
+<div align="left">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=185788&width=435&lines=Hello%F0%9F%91%8B!+I+am+Yash+%F0%9F%A4%A0" />
+</div>
+
+</div>
+
 # About Me:
 🔭 I'm currently learning about React JS<br>🤝 I'm looking to collaborate on projects in the domains like Web and App Development, Python Development, Robotics and IoT.<br>✍️ I sometimes write blogs at: https://hashnode.com/@yr1404<br>✉️ My email: yash06765@gmail.com<br>⚡ Fun fact: I enjoy discussing and sharing movie recommendations with friends, exchanging thoughts and opinions on our favorite films. 🗣️🎬
 
