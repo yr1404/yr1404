@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=185788&width=435&lines=Hello%F0%9F%91%8B!+I+am+Yash+%F0%9F%A4%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=185788&width=435&lines=Hello%F0%9F%91%8B!+I+am+Yash" />
 </div>
 
 </div>
