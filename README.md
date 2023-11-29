@@ -15,7 +15,7 @@
 </div>
 
 # About Me:
-🔭 I'm currently learning about React JS<br>🤝 I'm looking to collaborate on projects in the domains like Web and App Development, Python Development, Robotics and IoT.<br>✍️ I sometimes write blogs at: https://hashnode.com/@yr1404<br>✉️ My email: yash06765@gmail.com<br>⚡ Fun fact: I enjoy discussing and sharing movie recommendations with friends, exchanging thoughts and opinions on our favorite films. 🗣️🎬
+🔭 I'm currently learning about React JS<br>🤝 I'm looking to collaborate on projects in the domains like Web and App Development, Python Development, Robotics and IoT.<br>✍️ I sometimes write blogs at: https://hashnode.com/@yr1404<br>✉️ My email: yash06765@gmail.com<br>⚡ Fun fact: When I'm not coding, you'll find me enjoying some quality movies and series🎬 or playing badminton and other outdoor games 🏸⚽
 
 
 ## 🌐 Socials:
