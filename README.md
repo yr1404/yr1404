@@ -1,15 +1,13 @@
-[![An image of @yr1404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yr1404)](https://holopin.io/@yr1404)  
+<!-- [![An image of @yr1404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yr1404)](https://holopin.io/@yr1404)  -->
 
 <div align="center">
   <img src="https://github.com/yr1404/yr1404/assets/106465753/2d130b5c-63a5-448e-9416-e04a28f9b1c2" width="100px"/>
 </div>
 
+<br/>
+
 <div align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=185788&width=240&lines=Hello!+I+am+Yash" />
-</div>
-
----
-
 </div>
 
 # About Me:
