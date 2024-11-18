@@ -39,7 +39,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
+[![An image of @yr1404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yr1404)](https://holopin.io/@yr1404)
+---
 # 📊 GitHub Stats:
 <table>
   <tr>
